@@ -1,0 +1,3 @@
+ignore/*
+.vscode/*
+*.code-workspace
