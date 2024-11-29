@@ -26,7 +26,7 @@
 - Formatting rules were decided arbitrarily, I chose what looked or sounded best to me. If you find one of these rules is broken somewhere, don't hesitate to report it through an issue.
   <div align="center">
   <details>
-    <summary>The rules <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>are simple</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></summary>
+    <summary><kbd>The rules</kbd> <sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>are simple</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></summary>
     <div align="left">
 
     - When a word has no `kanji`, the field is set to null using a `~`.
