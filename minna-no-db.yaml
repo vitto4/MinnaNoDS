@@ -118,9 +118,9 @@ lesson-01:
 
   - id: [1, 2]
     edition: [1, 2]
-    kanji: "あなた"
-    kana: "あんた"
-    romaji: "anta"
+    kanji: ~
+    kana: "あなた"
+    romaji: "anata"
     meaning: {
       en: "you",
       fr: "vous (singulier)",
