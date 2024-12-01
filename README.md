@@ -44,7 +44,7 @@
 
 ## ☁ Overview
 
-This project aims to serve as a comprehensive database of vocabulary for the `Minna no Nihongo Shokyū` series (`みんなの日本語 初級 Ⅰ & Ⅱ`). <br>
+This project aims to serve as a comprehensive vocabulary list for the [`Minna no Nihongo Shokyū`](https://www.3anet.co.jp/np/en/list.html?af=1&g=7-12-33&s=1 "みんなの日本語 初級 Ⅰ & Ⅱ") series, packaged into a single YAML file – which I'll call *the database*. <br>
 To be more specific, it intends to be as close as possible to the source material, in an effort to (hopefully) provide a foundation anyone can use or expand on.
 
 
@@ -57,7 +57,7 @@ languages:
 <p align="center"><sup> Further information <a href="https://github.com/vitto4/MinnaNoDB/blob/main/minna-no-db.yaml#L25-L30">here</a>.</sup></p>
 
 
-**Rōmaji** are provided solely for convenience, and do not correspond to those of the *rōmaji edition* of the books (`みんなの日本語 初級 ローマ字版`).
+**Rōmaji** are provided solely for convenience, and do not correspond to those of the [*rōmaji edition*](https://www.3anet.co.jp/np/en/books/2303/ "みんなの日本語 初級 ローマ字版") of the books.
 
 They were made using a mix of [`pykakasi`](https://pypi.org/project/pykakasi/) and readings supplied by [Google Translate](https://translate.google.com/). As a result, they more or less follow standards set by the [*Modified Hepburn*](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants) system (yes, mācrōns inclūdēd !).
 
@@ -85,7 +85,7 @@ for key in lessons:
 
 ## 📚 Bibliography
 
-As you may know, `みんなの日本語 初級` comes in two books of twenty-five lessons each ; both available in two editions (the second of which is an updated version of the original).
+As you may know, `Minna no Nihongo Shokyū` comes in two books of twenty-five lessons each ; both available in two editions (the second of which is an updated version of the original).
 
 Presented bellow is a table showing the books used in the making of the database.
 
