@@ -60,7 +60,7 @@
         Example : `froid (le temps «il fait froid»)` --> `froid (le temps « il fait froid »)`.
       - For languages such as French that require a space before punctuation, replace `*:` by <code>&nbsp;:&nbsp;</code> but keep `*?` and `*!`. <br>
         Example : `Oui?` is kept this way ; but edit `football (～を します:jouer au football)` into `football (～を します : jouer au football)`.
-      - When a meaning is missing from the database, it is set to `null`. <br>
+      - When a meaning is missing from the dataset, it is set to `null`. <br>
         Example : `fr: null,`.
     </div>
   </details>
