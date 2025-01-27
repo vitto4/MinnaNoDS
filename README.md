@@ -57,9 +57,8 @@ languages:
 <p align="center"><sup> Further information <a href="https://github.com/vitto4/MinnaNoDS/blob/main/minna-no-ds.yaml#L25-L30">here</a>.</sup></p>
 
 
-**Rōmaji** are provided solely for convenience, and do not correspond to those of the [*rōmaji edition*](https://www.3anet.co.jp/np/en/books/2303/ "みんなの日本語 初級 ローマ字版") of the books.
-
-They were made using a mix of [`pykakasi`](https://pypi.org/project/pykakasi/) and readings supplied by [Google Translate](https://translate.google.com/). As a result, they more or less follow standards set by the [*Modified Hepburn*](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants) system (yes, mācrōns inclūdēd !).
+**Rōmaji** are provided solely for convenience, and do not correspond to those of the [*rōmaji edition*](https://www.3anet.co.jp/np/en/books/2303/ "みんなの日本語 初級 ローマ字版") of the books. <br>
+These were generated using a mix of [`pykakasi`](https://pypi.org/project/pykakasi/) and readings supplied by [Google Translate](https://translate.google.com/). As a result, they more or less follow standards set by the [*Modified Hepburn*](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants) system (yes, mācrōns inclūdēd !).
 
 ## ⚙️ Usage
 
@@ -119,7 +118,7 @@ This file also includes general information about the structure of the dataset.
         "/romaji:\\s*\"[^\"]*\"/gi"
     ]
   ```
-- This should have shipped with the set of scripts I used to lint and validate the dataset. <br>
+- This project should have shipped with the set of scripts I used to lint and validate the dataset. <br>
   It didn't, but who knows, I may get to it when (if) I stop being obsessed with that one space dwarves simulator ¯\\\_(ツ)_/¯
 - Adding or removing a word will alter the `id` of all subsequent words in the same lesson. <br>
   Therefore, any time this has to be done, the version number will have to be bumped to the next major release as this could be considered breaking change for anyone using `id` as a [primary key](## "Which it intends to be, when it is in fact more of something I believed to be called a `natural key` and may thus be unstable.").
@@ -133,7 +132,7 @@ This file also includes general information about the structure of the dataset.
 
 ```yaml
 #   * The selection of words and their respective translations are the sole property of 3A Corporation.
-#     This dataset and subsequent projects that depend on it shall only be used *in conjunction with* – and not *as a substitute for* – of the books ; so as to not cause any financial harm to the IP owners.
+#     This dataset and subsequent projects that depend on it shall only be used *in conjunction with* – and not *as a substitute for* – the books ; so as to not cause any financial harm to the IP owners.
 #   * As per previous remarks, no commercial use of this file shall be admissible.
 ```
 <p align="center"><sup> More <a href="https://github.com/vitto4/MinnaNoDS/blob/main/minna-no-ds.yaml#L11-L13">here</a>.</sup></p>
