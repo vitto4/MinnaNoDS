@@ -965,7 +965,7 @@ lesson-02:
     edition: [2]
     kanji: ~
     kana: "えっ"
-    romaji: "etsu"
+    romaji: "e'" # Only occurrence of っ ending a word, is represented as a glottal stop like Wiktionary does it
     meaning: {
       en: "Oh? What! (used when hearing something unexpected)",
       fr: "Ah (émis lorsque l'on a entendu quelque chose d'inattendu)",
@@ -12421,7 +12421,7 @@ lesson-26:
 
   - id: [26, 18]
     edition: [2]
-    kanji: "平日\""
+    kanji: "平日"
     kana: "へいじつ"
     romaji: "heijitsu"
     meaning: {
