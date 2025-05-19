@@ -13,11 +13,10 @@
 
 </p>
 
-<p align="center">Lightly-opinionated compendium of vocabulary from <code>Minna no Nihongo Shokyū Ⅰ & Ⅱ</code> books.</p>
+<p align="center">All of the vocabulary from your <code>Minna no Nihongo Shokyū Ⅰ & Ⅱ</code> textbooks formulated into a tiny little YAML file.</p>
 
 <br>
 
-<div id="figure-1"></div>
 
 ```yaml
   - id: [2, 10]
@@ -30,17 +29,17 @@
       fr: "journal",
     }
 ```
-<p align="center"><sup><ins><i>Figure</i></ins> – A word straight from the dataset. More information on the format <a href="https://github.com/vitto4/MinnaNoDS/blob/main/minna-no-ds.yaml#L92-L106">this way</a>.</sup></p>
+<p align="center"><sup><ins><i>Figure</i></ins> – A word straight from the dataset. More information on the format <a href="https://github.com/vitto4/MinnaNoDS/blob/main/minna-no-ds.yaml#L93-L107">this way</a>.</sup></p>
 
 
 
 ## 🧭 Table of contents
 1. [Overview](#-overview)
-2. [Usage](#️-usage)
-3. [Bibliography](#-bibliography)
-4. [Opinions](#️-opinions)
-5. [Notes](#-notes)
-6. [Warning](#-warning)
+1. [Usage](#️-usage)
+1. [Bibliography](#-bibliography)
+1. [Opinions](#️-opinions)
+1. [Notes](#-notes)
+1. [Warning](#-warning)
 
 ## ☁ Overview
 
@@ -54,7 +53,7 @@ languages:
   en: "English"
   fr: "Français"
 ```
-<p align="center"><sup> Further information <a href="https://github.com/vitto4/MinnaNoDS/blob/main/minna-no-ds.yaml#L25-L30">here</a>.</sup></p>
+<p align="center"><sup> Further information <a href="https://github.com/vitto4/MinnaNoDS/blob/main/minna-no-ds.yaml#L26-L31">here</a>.</sup></p>
 
 
 **Rōmaji** are provided solely for convenience, and do not correspond to those of the [*rōmaji edition*](https://www.3anet.co.jp/np/en/books/2303/ "みんなの日本語 初級 ローマ字版") of the books. <br>
@@ -135,7 +134,7 @@ This file also includes general information about the structure of the dataset.
 #     This dataset and subsequent projects that depend on it shall only be used *in conjunction with* – and not *as a substitute for* – the books ; so as to not cause any financial harm to the IP owners.
 #   * As per previous remarks, no commercial use of this file shall be admissible.
 ```
-<p align="center"><sup> More <a href="https://github.com/vitto4/MinnaNoDS/blob/main/minna-no-ds.yaml#L11-L13">here</a>.</sup></p>
+<p align="center"><sup> More <a href="https://github.com/vitto4/MinnaNoDS/blob/main/minna-no-ds.yaml#L12-L14">here</a>.</sup></p>
 
 The lack of license is deliberate, as I am uncertain about the appropriate licensing options for this project.
 Content isn't mine, only the dataset structure and the actual work of filling it in. <br>
