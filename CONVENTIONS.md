@@ -1,5 +1,7 @@
 
-# 🗳️ Opinions
+# 🚦 Conventions
+
+## Structure & Misc.
 
 - In each lesson, words are ordered like they are in the second edition. <br>
   As such, words that are only present in the first edition are placed at the very end of the lesson, marked by the comment :
@@ -24,7 +26,7 @@
   ```
 - `Minna no Nihongo`-specific vocabulary (like `IMC／パワー電気／ブラジルエアー`) is included.
 
-## Formatting rules
+## Formatting
 
 Formatting rules were decided arbitrarily, I chose what looked or sounded best to me. If you find one of these rules broken somewhere, don't hesitate to report it through an issue.
 <div align="center">

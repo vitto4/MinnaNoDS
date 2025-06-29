@@ -37,13 +37,13 @@
 1. [Overview](#-overview)
 1. [Usage](#️-usage)
 1. [Bibliography](#-bibliography)
-1. [Opinions](#️-opinions)
+1. [Conventions](#-conventions)
 1. [Notes](#-notes)
 1. [Warning](#-warning)
 
 ## ☁ Overview
 
-This project aims to serve as a comprehensive vocabulary list for the [`Minna no Nihongo Shokyū`](https://www.3anet.co.jp/np/en/list.html?af=1&g=7-12-33&s=1 "みんなの日本語 初級 Ⅰ & Ⅱ") series, packaged into a single YAML file – which will be called *the dataset*. <br>
+This project aims to serve as a comprehensive vocabulary list for the [`Minna no Nihongo Shokyū`](https://www.3anet.co.jp/np/en/list.html?af=1&g=7-12-33&s=1 "みんなの日本語 初級 Ⅰ & Ⅱ") series, packaged into a single YAML file – which we'll refer to as *the dataset*. <br>
 To be more specific, it intends to be as close as possible to the source material, in an effort to (hopefully) provide a foundation anyone can use or expand on.
 
 
@@ -95,14 +95,14 @@ Presented bellow is a table showing the books used in the making of the dataset.
 | **Book 2**<br>*French Version* | みんなの日本語初級Ⅱ 翻訳・文法解説フランス語版<br>[`ISBN : 9784883191383`](https://web.archive.org/web/20040820203739/http://www.3anet.co.jp/english/text_e_m_trans.html) | みんなの日本語初級Ⅱ 第２版 翻訳・文法解説 フランス語版<br>[`ISBN : 9784883197057`](https://www.3anet.co.jp/np/en/books/2412/) |
 
 
-## 🗳️ Opinions
+## 🚦 Conventions
 
-What I call an *opinion* is any rule I set while creating the dataset that is not directly derived from the source material.
+What I call a *convention* is any rule I set while creating the dataset that is not directly derived from the source material.
 
 <p align="center">
   See 
-  <a href="https://github.com/vitto4/MinnaNoDS/blob/main/OPINIONS.md">
-    <code>OPINIONS.md</code>
+  <a href="https://github.com/vitto4/MinnaNoDS/blob/main/CONVENTIONS.md">
+    <code>CONVENTIONS.md</code>
   </a>
 </p>
 
