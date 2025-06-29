@@ -2239,7 +2239,7 @@ lesson-04:
     romaji: "eeto"
     meaning: {
       en: "well, let me see",
-      fr: null,
+      fr: "euh..., voyons",
     }
 
   - id: [4, 62]
@@ -2249,7 +2249,7 @@ lesson-04:
     romaji: "104"
     meaning: {
       en: "information, directory assistance",
-      fr: null,
+      fr: "renseignement",
     }
 
   - id: [4, 63]
@@ -2259,7 +2259,7 @@ lesson-04:
     romaji: "onegaishimasu."
     meaning: {
       en: "Please. (lit. ask for a favor)",
-      fr: null,
+      fr: "S'il vous plaît (lit. Je demande votre faveur.)",
     }
 
   - id: [4, 64]
@@ -2269,7 +2269,7 @@ lesson-04:
     romaji: "kashikomarimashita."
     meaning: {
       en: "Certainly (sir, madam)",
-      fr: null,
+      fr: "Certainement, (monsieur, madame, mademoiselle).",
     }
 
   - id: [4, 65]
@@ -2279,7 +2279,7 @@ lesson-04:
     romaji: "otoiawasenobangō"
     meaning: {
       en: "the number being inquired about",
-      fr: null,
+      fr: "le numéro que vous demandez",
     }
 
   - id: [4, 66]
@@ -2289,7 +2289,7 @@ lesson-04:
     romaji: "[dōmo] arigatō gozaimashita."
     meaning: {
       en: "Thank you very much.",
-      fr: null,
+      fr: "Merci beaucoup.",
     }
 
   - id: [4, 67]
@@ -2299,7 +2299,7 @@ lesson-04:
     romaji: "bankoku"
     meaning: {
       en: "Bangkok",
-      fr: null,
+      fr: "Bangkok",
     }
 
   - id: [4, 68]
@@ -2309,7 +2309,7 @@ lesson-04:
     romaji: "ōsakadepāto"
     meaning: {
       en: "fictitious department store",
-      fr: null,
+      fr: "grand magasin imaginaire",
     }
 
 
@@ -2933,7 +2933,7 @@ lesson-05:
     romaji: "hakata"
     meaning: {
       en: "name of a town in Kyushu",
-      fr: null,
+      fr: "nom d'une ville à Kyushu",
     }
 
   - id: [5, 63]
@@ -2943,7 +2943,7 @@ lesson-05:
     romaji: "fushimi"
     meaning: {
       en: "name of a town in Kyoto",
-      fr: null,
+      fr: "nom d'un quartier à Kyoto",
     }
 
 
@@ -3507,7 +3507,7 @@ lesson-06:
     romaji: "eiga"
     meaning: {
       en: "movie",
-      fr: null,
+      fr: "film, cinéma",
     }
 
   - id: [6, 57]
@@ -3517,7 +3517,7 @@ lesson-06:
     romaji: "CD"
     meaning: {
       en: "CD, compact disc",
-      fr: null,
+      fr: "CD, disque compact",
     }
 
   - id: [6, 58]
@@ -3527,7 +3527,7 @@ lesson-06:
     romaji: "resutoran"
     meaning: {
       en: "restaurant",
-      fr: null,
+      fr: "restaurant",
     }
 
   - id: [6, 59]
@@ -3537,7 +3537,7 @@ lesson-06:
     romaji: "ōsakajōkōen"
     meaning: {
       en: "Osaka Castle park",
-      fr: null,
+      fr: "Parc du château d'Osaka",
     }
 
 
@@ -4011,7 +4011,7 @@ lesson-07:
     romaji: "fuakusu"
     meaning: {
       en: "fax",
-      fr: null,
+      fr: "télécopie, fax",
     }
 
   - id: [7, 48]
@@ -4021,7 +4021,7 @@ lesson-07:
     romaji: "wāpuro"
     meaning: {
       en: "word processor",
-      fr: null,
+      fr: "appareil à traitement de texte",
     }
 
   - id: [7, 49]
@@ -4031,7 +4031,7 @@ lesson-07:
     romaji: "gomenkudasai."
     meaning: {
       en: "Excuse me./Anybody home?/May I come in? (an expression used by a visitor)",
-      fr: null,
+      fr: "Bonjour./Excusez-moi./Y a-t-il quelqu'un? (expression utilisée par un visiteur)",
     }
 
   - id: [7, 50]
@@ -4041,7 +4041,7 @@ lesson-07:
     romaji: "ryokō"
     meaning: {
       en: "trip, tour (～を します : travel, make a trip)",
-      fr: null,
+      fr: "voyage (～を します : faire un voyage, voyager)",
     }
 
   - id: [7, 51]
@@ -4051,7 +4051,7 @@ lesson-07:
     romaji: "omiyage"
     meaning: {
       en: "souvenir, present",
-      fr: null,
+      fr: "souvenir, cadeau",
     }
 
   - id: [7, 52]
@@ -4061,7 +4061,7 @@ lesson-07:
     romaji: "yōroppa"
     meaning: {
       en: "Europe",
-      fr: null,
+      fr: "Europe",
     }
 
 
@@ -4675,7 +4675,7 @@ lesson-08:
     romaji: "kuruma"
     meaning: {
       en: "car, vehicle",
-      fr: null,
+      fr: "voiture, véhicule",
     }
 
   - id: [8, 62]
@@ -4685,7 +4685,7 @@ lesson-08:
     romaji: "benkyō"
     meaning: {
       en: "study",
-      fr: null,
+      fr: "étude, leçon",
     }
 
   - id: [8, 63]
@@ -4695,7 +4695,7 @@ lesson-08:
     romaji: "dore"
     meaning: {
       en: "which one (of three or more)",
-      fr: null,
+      fr: "lequel (parmi trois ou plus)",
     }
 
   - id: [8, 64]
@@ -4705,7 +4705,7 @@ lesson-08:
     romaji: "nihonno seikatsuni naremashitaka."
     meaning: {
       en: "Have you got used to the life in Japan?",
-      fr: null,
+      fr: "Êtes-vous déjà habitué à la vie au Japon?",
     }
 
   - id: [8, 65]
@@ -4714,8 +4714,8 @@ lesson-08:
     kana: "びわこ"
     romaji: "biwako"
     meaning: {
-      en: "Have you got used to the life in Japan?",
-      fr: null,
+      en: "Lake Biwa, the biggest lake in Japan",
+      fr: "Lac Biwa, le plus grand lac du Japon",
     }
 
 
@@ -5250,7 +5250,7 @@ lesson-09:
     romaji: "zannendesu [ne]."
     meaning: {
       en: "I'm sorry (to hear that)./That's a pity.",
-      fr: null,
+      fr: "C'est dommage./Je regrette./Je suis désolé.",
     }
 
   - id: [9, 54]
@@ -5259,8 +5259,8 @@ lesson-09:
     kana: "すみません。"
     romaji: "sumimasen."
     meaning: {
-      en: "I am sorry",
-      fr: null,
+      en: "I am sorry.",
+      fr: "Excusez-moi./Pardon, je vous prie de m'excuser.",
     }
 
   - id: [9, 55]
@@ -5270,7 +5270,7 @@ lesson-09:
     romaji: "moshimoshi"
     meaning: {
       en: "hello (used on the phone)",
-      fr: null,
+      fr: "allo (utilisé pour parler au téléphone)",
     }
 
   - id: [9, 56]
@@ -5280,7 +5280,7 @@ lesson-09:
     romaji: "ozawaseiji"
     meaning: {
       en: "famous Japanese conductor (1935-)",
-      fr: null,
+      fr: "chef d'orchestre japonais célèbre (1935-)",
     }
 
 
@@ -5784,7 +5784,7 @@ lesson-10:
     romaji: "firumu"
     meaning: {
       en: "film",
-      fr: null,
+      fr: "pellicule",
     }
 
   - id: [10, 51]
@@ -5794,7 +5794,7 @@ lesson-10:
     romaji: "hon'ya"
     meaning: {
       en: "bookstore",
-      fr: null,
+      fr: "librairie",
     }
 
   - id: [10, 52]
@@ -5804,17 +5804,17 @@ lesson-10:
     romaji: "ichiban ~"
     meaning: {
       en: "the most ～ (いちばん うえ : the top)",
-      fr: null,
+      fr: "le plus ～ (いちばん うえ : le plus haut)",
     }
 
   - id: [10, 53]
     edition: [1]
-    kanji: "～段目"
-    kana: "～だんめ"
+    kanji: "－段目"
+    kana: "－だんめ"
     romaji: "~danme"
     meaning: {
       en: "the -th shelf (だん is the counter for shelves)",
-      fr: null,
+      fr: "la-ère étagère (だん auxiliaire numéral pour compter l'étagère)",
     }
 
   - id: [10, 54]
@@ -5824,7 +5824,7 @@ lesson-10:
     romaji: "chirisōsu"
     meaning: {
       en: "chilli sauce",
-      fr: null,
+      fr: "sauce chili",
     }
 
   - id: [10, 55]
@@ -5834,7 +5834,7 @@ lesson-10:
     romaji: "oku"
     meaning: {
       en: "the back",
-      fr: null,
+      fr: "fond, intérieur",
     }
 
   - id: [10, 56]
@@ -5844,7 +5844,7 @@ lesson-10:
     romaji: "supaisu kōnā"
     meaning: {
       en: "spice corner",
-      fr: null,
+      fr: "rayon épices",
     }
 
   - id: [10, 57]
@@ -5854,7 +5854,7 @@ lesson-10:
     romaji: "yunyūa sutoa"
     meaning: {
       en: "fictitious supermarket",
-      fr: null,
+      fr: "supermarché imaginaire",
     }
 
 
@@ -6478,7 +6478,7 @@ lesson-11:
     romaji: "sokutatsu"
     meaning: {
       en: "special delivery",
-      fr: null,
+      fr: "exprès",
     }
 
   - id: [11, 63]
@@ -6488,7 +6488,7 @@ lesson-11:
     romaji: "kakitome"
     meaning: {
       en: "registered mail",
-      fr: null,
+      fr: "recommandé",
     }
 
   - id: [11, 64]
@@ -6498,7 +6498,7 @@ lesson-11:
     romaji: "irasshaimase."
     meaning: {
       en: "Welcome./May I help you? (a greeting to a customer or a guest entering a shop, etc.)",
-      fr: null,
+      fr: "Entrez, bienvenue. (salutation dite aux clients qui entrent dans un magasin, etc.)",
     }
 
   - id: [11, 65]
@@ -6508,7 +6508,7 @@ lesson-11:
     romaji: "itte mairimasu."
     meaning: {
       en: "So long. (lit. I'm going and coming back)",
-      fr: null,
+      fr: "À toute à l'heure. (lit. Je vais et reviens.)",
     }
 
   - id: [11, 66]
@@ -6518,7 +6518,7 @@ lesson-11:
     romaji: "sorekara"
     meaning: {
       en: "and, furthermore",
-      fr: null,
+      fr: "et puis, ensuite, après cela",
     }
 
 
@@ -7062,7 +7062,7 @@ lesson-12:
     romaji: "shiken"
     meaning: {
       en: "examination",
-      fr: null,
+      fr: "examen",
     }
 
   - id: [12, 55]
@@ -7072,7 +7072,7 @@ lesson-12:
     romaji: "sugoidesune."
     meaning: {
       en: "That's amazing.",
-      fr: null,
+      fr: "C'est formidable./C'est sensationnel./C'est épatant.",
     }
 
   - id: [12, 56]
@@ -7082,7 +7082,7 @@ lesson-12:
     romaji: "demo"
     meaning: {
       en: "but",
-      fr: null,
+      fr: "mais",
     }
 
   - id: [12, 57]
@@ -7092,7 +7092,7 @@ lesson-12:
     romaji: "mainichiya"
     meaning: {
       en: "fictitious supermarket",
-      fr: null,
+      fr: "supermarché imaginaire",
     }
 
 
@@ -7436,7 +7436,7 @@ lesson-13:
     romaji: "dashimasu [tegamiwo~]"
     meaning: {
       en: "send [a letter]",
-      fr: null,
+      fr: "envoyer [une lettre]",
     }
 
   - id: [13, 35]
@@ -7446,7 +7446,7 @@ lesson-13:
     romaji: "hairimasu [kissatenni~]"
     meaning: {
       en: "enter [a coffee shop]",
-      fr: null,
+      fr: "entrer [dans un café]",
     }
 
   - id: [13, 36]
@@ -7456,7 +7456,7 @@ lesson-13:
     romaji: "demasu [kissatenwo~]"
     meaning: {
       en: "go out [of a coffee shop]",
-      fr: null,
+      fr: "sortir [d'un café]",
     }
 
   - id: [13, 37]
@@ -7466,7 +7466,7 @@ lesson-13:
     romaji: "sabishii"
     meaning: {
       en: "lonely",
-      fr: null,
+      fr: "triste, solitaire, désert",
     }
 
   - id: [13, 38]
@@ -7476,7 +7476,7 @@ lesson-13:
     romaji: "shiyakusho"
     meaning: {
       en: "municipal office, city hall",
-      fr: null,
+      fr: "mairie, hôtel de ville",
     }
 
   - id: [13, 39]
@@ -7486,7 +7486,7 @@ lesson-13:
     romaji: "keizai"
     meaning: {
       en: "economy",
-      fr: null,
+      fr: "économie",
     }
 
   - id: [13, 40]
@@ -7496,7 +7496,7 @@ lesson-13:
     romaji: "kaigi"
     meaning: {
       en: "meeting, conference (～を します : hold a conference)",
-      fr: null,
+      fr: "réunion, conférence (～を します : faire une réunion, tenir une conférence)",
     }
 
   - id: [13, 41]
@@ -7506,7 +7506,7 @@ lesson-13:
     romaji: "tōroku"
     meaning: {
       en: "registration (～を します : register)",
-      fr: null,
+      fr: "enregistrement, inscription (～を します : enregistrer, inscrire)",
     }
 
   - id: [13, 42]
@@ -7516,7 +7516,7 @@ lesson-13:
     romaji: "onakaga ippaidesu."
     meaning: {
       en: "(I'm) full.",
-      fr: null,
+      fr: "(Je n'ai) plus faim.",
     }
 
   - id: [13, 43]
@@ -7526,7 +7526,7 @@ lesson-13:
     romaji: "sōdesune."
     meaning: {
       en: "I agree with you.",
-      fr: null,
+      fr: "Je suis d'accord avec vous.",
     }
 
   - id: [13, 44]
@@ -7536,7 +7536,7 @@ lesson-13:
     romaji: "roshia"
     meaning: {
       en: "Russia",
-      fr: null,
+      fr: "Russie",
     }
 
   - id: [13, 45]
@@ -7546,7 +7546,7 @@ lesson-13:
     romaji: "tsuruya"
     meaning: {
       en: "fictitious Japanese restaurant",
-      fr: null,
+      fr: "restaurant imaginaire",
     }
 
 
@@ -8020,7 +8020,7 @@ lesson-14:
     romaji: "magarimasu [migihe~]"
     meaning: {
       en: "turn [to the right]",
-      fr: null,
+      fr: "tourner [à droite]",
     }
 
   - id: [14, 48]
@@ -8030,7 +8030,7 @@ lesson-14:
     romaji: "hajimemasu"
     meaning: {
       en: "start, begin",
-      fr: null,
+      fr: "commencer",
     }
 
   - id: [14, 49]
@@ -8040,7 +8040,7 @@ lesson-14:
     romaji: "iidesuyo."
     meaning: {
       en: "Sure./Certainly.",
-      fr: null,
+      fr: "Certainement./Bien sûr.",
     }
 
   - id: [14, 50]
@@ -8050,7 +8050,7 @@ lesson-14:
     romaji: "umeda"
     meaning: {
       en: "name of a town in Osaka",
-      fr: null,
+      fr: "nom d'un quartier à Osaka",
     }
 
 
@@ -8304,7 +8304,7 @@ lesson-15:
     romaji: "tachimasu"
     meaning: {
       en: "stand up",
-      fr: null,
+      fr: "se mettre debout, se lever",
     }
 
   - id: [15, 26]
@@ -8314,7 +8314,7 @@ lesson-15:
     romaji: "suwarimasu"
     meaning: {
       en: "sit down",
-      fr: null,
+      fr: "s'asseoir",
     }
 
   - id: [15, 27]
@@ -8324,7 +8324,7 @@ lesson-15:
     romaji: "tsukaimasu"
     meaning: {
       en: "use",
-      fr: null,
+      fr: "se servir de, utiliser",
     }
 
   - id: [15, 28]
@@ -8334,7 +8334,7 @@ lesson-15:
     romaji: "shitte imasu"
     meaning: {
       en: "know",
-      fr: null,
+      fr: "savoir, être au courant",
     }
 
   - id: [15, 29]
@@ -8344,7 +8344,7 @@ lesson-15:
     romaji: "sunde imasu [ōsakani~]"
     meaning: {
       en: "live [in Osaka]",
-      fr: null,
+      fr: "habiter, demeurer [à Osaka]",
     }
 
   - id: [15, 30]
@@ -8354,7 +8354,7 @@ lesson-15:
     romaji: "senmon"
     meaning: {
       en: "specialty, field of study",
-      fr: null,
+      fr: "spécialité",
     }
 
   - id: [15, 31]
@@ -8364,7 +8364,7 @@ lesson-15:
     romaji: "tokoya"
     meaning: {
       en: "barber, barber's",
-      fr: null,
+      fr: "coiffeur, salon de coiffure",
     }
 
   - id: [15, 32]
@@ -8374,7 +8374,7 @@ lesson-15:
     romaji: "pureigaido"
     meaning: {
       en: "(theater) ticket agency",
-      fr: null,
+      fr: "agence de spectacle",
     }
 
   - id: [15, 33]
@@ -8384,7 +8384,7 @@ lesson-15:
     romaji: "tokuni"
     meaning: {
       en: "especially",
-      fr: null,
+      fr: "particulièrement, surtout",
     }
 
   - id: [15, 34]
@@ -8394,7 +8394,7 @@ lesson-15:
     romaji: "gokazoku"
     meaning: {
       en: "your family",
-      fr: null,
+      fr: "votre famille",
     }
 
 
@@ -8988,7 +8988,7 @@ lesson-16:
     romaji: "yamemasu [kaishawo~]"
     meaning: {
       en: "quit or retire from [a company], stop, give up",
-      fr: null,
+      fr: "quitter [la société], se retirer de, arrêter",
     }
 
   - id: [16, 60]
@@ -8998,7 +8998,7 @@ lesson-16:
     romaji: "sega takai"
     meaning: {
       en: "tall (referring to person)",
-      fr: null,
+      fr: "grand (être grand de taille pour les hommes)",
     }
 
   - id: [16, 61]
@@ -9008,7 +9008,7 @@ lesson-16:
     romaji: "atamaga ii"
     meaning: {
       en: "clever, smart",
-      fr: null,
+      fr: "(être) intelligent",
     }
 
   - id: [16, 62]
@@ -9018,7 +9018,7 @@ lesson-16:
     romaji: "ryūgakusei"
     meaning: {
       en: "foreign student",
-      fr: null,
+      fr: "étudiant étranger",
     }
 
   - id: [16, 63]
@@ -9028,7 +9028,7 @@ lesson-16:
     romaji: "ajia"
     meaning: {
       en: "Asia",
-      fr: null,
+      fr: "Asie",
     }
 
   - id: [16, 64]
@@ -9038,7 +9038,7 @@ lesson-16:
     romaji: "betonamu"
     meaning: {
       en: "Vietnam",
-      fr: null,
+      fr: "Vietnam",
     }
 
   - id: [16, 65]
@@ -9048,7 +9048,7 @@ lesson-16:
     romaji: "fue"
     meaning: {
       en: "Hue (in Vietnam)",
-      fr: null,
+      fr: "Hue (au Vietnam)",
     }
 
 
@@ -9412,7 +9412,7 @@ lesson-17:
     romaji: "dashimasu [repōtowo~]"
     meaning: {
       en: "hand in [a report]",
-      fr: null,
+      fr: "présenter, remettre [un rapport]",
     }
 
   - id: [17, 37]
@@ -9422,7 +9422,7 @@ lesson-17:
     romaji: "mondai"
     meaning: {
       en: "question, problem, trouble",
-      fr: null,
+      fr: "question, problème",
     }
 
   - id: [17, 38]
@@ -9432,7 +9432,7 @@ lesson-17:
     romaji: "kotae"
     meaning: {
       en: "answer",
-      fr: null,
+      fr: "réponse",
     }
 
   - id: [17, 39]
@@ -9442,7 +9442,7 @@ lesson-17:
     romaji: "sensei"
     meaning: {
       en: "doctor (used when addressing a medical doctor)",
-      fr: null,
+      fr: "docteur (utilisé quand on s'adresse au médecin)",
     }
 
 
@@ -9756,7 +9756,7 @@ lesson-18:
     romaji: "kengakushimasu"
     meaning: {
       en: "visit some place for study",
-      fr: null,
+      fr: "visiter, faire une visite d'études",
     }
 
   - id: [18, 32]
@@ -9766,7 +9766,7 @@ lesson-18:
     romaji: "kokusai~"
     meaning: {
       en: "international ～",
-      fr: null,
+      fr: "～ international",
     }
 
   - id: [18, 33]
@@ -9776,7 +9776,7 @@ lesson-18:
     romaji: "bokujō"
     meaning: {
       en: "ranch, stock farm",
-      fr: null,
+      fr: "ferme d'élevage",
     }
 
 
@@ -10050,7 +10050,8 @@ lesson-19:
     romaji: "chōshiga ii"
     meaning: {
       en: "be in good condition",
-      fr: null,
+      # !MOD REPLACED : `bonné sante` --> `bonne santé`
+      fr: "être en bonne condition, être en bonne santé, marcher bien",
     }
 
   - id: [19, 28]
@@ -10060,7 +10061,7 @@ lesson-19:
     romaji: "chōshiga warui"
     meaning: {
       en: "be in bad condition",
-      fr: null,
+      fr: "être en mauvaise condition, être en mauvaise santé, marcher mal",
     }
 
   - id: [19, 29]
@@ -10070,7 +10071,7 @@ lesson-19:
     romaji: "pachinko"
     meaning: {
       en: "pinball game (～を します : play pachinko)",
-      fr: null,
+      fr: "pachinko (flipper japonais) (～を します : jouer au pachinko)",
     }
 
   - id: [19, 30]
@@ -10080,7 +10081,7 @@ lesson-19:
     romaji: "jitsuwa"
     meaning: {
       en: "actually, to tell the truth",
-      fr: null,
+      fr: "en fait, à vrai dire, en réalité",
     }
 
   - id: [19, 31]
@@ -10090,7 +10091,7 @@ lesson-19:
     romaji: "nankaimo"
     meaning: {
       en: "many times",
-      fr: null,
+      fr: "bien des fois, plusieurs fois",
     }
 
   - id: [19, 32]
@@ -10100,7 +10101,7 @@ lesson-19:
     romaji: "shikashi"
     meaning: {
       en: "but, however",
-      fr: null,
+      fr: "mais, cependant",
     }
 
   - id: [19, 33]
@@ -10110,7 +10111,7 @@ lesson-19:
     romaji: "kēki"
     meaning: {
       en: "cake",
-      fr: null,
+      fr: "pâtisserie, gâteau",
     }
 
 
@@ -10344,7 +10345,7 @@ lesson-20:
     romaji: "naoshimasu"
     meaning: {
       en: "repair, correct",
-      fr: null,
+      fr: "réparer, corriger, rectifier",
     }
 
   - id: [20, 24]
@@ -10354,7 +10355,7 @@ lesson-20:
     romaji: "denwashimasu"
     meaning: {
       en: "phone",
-      fr: null,
+      fr: "téléphoner",
     }
 
   - id: [20, 25]
@@ -10364,7 +10365,7 @@ lesson-20:
     romaji: "sarariiman"
     meaning: {
       en: "salaried worker, office worker",
-      fr: null,
+      fr: "salarié",
     }
 
   - id: [20, 26]
@@ -10374,7 +10375,7 @@ lesson-20:
     romaji: "bukka"
     meaning: {
       en: "commodity prices",
-      fr: null,
+      fr: "coût de la vie, prix",
     }
 
   - id: [20, 27]
@@ -10384,7 +10385,7 @@ lesson-20:
     romaji: "konoaida"
     meaning: {
       en: "the other day",
-      fr: null,
+      fr: "l'autre jour, il y a quelques jours, récemment",
     }
 
   - id: [20, 28]
@@ -10394,7 +10395,7 @@ lesson-20:
     romaji: "kunihe kaeruno？"
     meaning: {
       en: "Are you going back to your country?",
-      fr: null,
+      fr: "Est-ce que vous allez retourner dans votre pays?",
     }
 
   - id: [20, 29]
@@ -10404,7 +10405,7 @@ lesson-20:
     romaji: "dō suruno?"
     meaning: {
       en: "What will you do?",
-      fr: null,
+      fr: Quelle est votre intention?/Qu'est-ce que vous allez faire?",
     }
 
   - id: [20, 30]
@@ -10414,7 +10415,7 @@ lesson-20:
     romaji: "dō shiyoukana."
     meaning: {
       en: "What shall I do?",
-      fr: null,
+      fr: "Qu'est-ce que je vais faire?",
     }
 
 
@@ -10938,7 +10939,7 @@ lesson-21:
     romaji: "tarimasu"
     meaning: {
       en: "be enough, be sufficient",
-      fr: null,
+      fr: "suffire, être suffisant",
     }
 
   - id: [21, 53]
@@ -10948,7 +10949,7 @@ lesson-21:
     romaji: "onaji"
     meaning: {
       en: "the same",
-      fr: null,
+      fr: "même, identique",
     }
 
   - id: [21, 54]
@@ -10958,7 +10959,7 @@ lesson-21:
     romaji: "shushō"
     meaning: {
       en: "prime minister",
-      fr: null,
+      fr: "premier ministre",
     }
 
   - id: [21, 55]
@@ -10968,7 +10969,7 @@ lesson-21:
     romaji: "daitōryō"
     meaning: {
       en: "president",
-      fr: null,
+      fr: "président",
     }
 
   - id: [21, 56]
@@ -10978,7 +10979,7 @@ lesson-21:
     romaji: "seiji"
     meaning: {
       en: "politics",
-      fr: null,
+      fr: "politique",
     }
 
   - id: [21, 57]
@@ -10988,7 +10989,7 @@ lesson-21:
     romaji: "supiichi"
     meaning: {
       en: "speech (～を します : talk, tell a story)",
-      fr: null,
+      fr: "discours (～を します : prononcer un discours)",
     }
 
   - id: [21, 58]
@@ -10998,7 +10999,7 @@ lesson-21:
     romaji: "arubaito"
     meaning: {
       en: "side job (～を します : work part time)",
-      fr: null,
+      fr: "travail occasionnel, job (～を します : avoir un job)",
     }
 
   - id: [21, 59]
@@ -11008,7 +11009,7 @@ lesson-21:
     romaji: "yūmoa"
     meaning: {
       en: "humor",
-      fr: null,
+      fr: "humour",
     }
 
   - id: [21, 60]
@@ -11018,7 +11019,7 @@ lesson-21:
     romaji: "muda"
     meaning: {
       en: "waste",
-      fr: null,
+      fr: "gaspillage",
     }
 
   - id: [21, 61]
@@ -11028,7 +11029,7 @@ lesson-21:
     romaji: "rasshu"
     meaning: {
       en: "rush hour",
-      fr: null,
+      fr: "heures de pointe",
     }
 
   - id: [21, 62]
@@ -11038,7 +11039,7 @@ lesson-21:
     romaji: "shikataga arimasen."
     meaning: {
       en: "There is no other choice./It can't be helped.",
-      fr: null,
+      fr: "Il n'y a rien à faire./On n'a pas le choix./Tant pis!",
     }
 
   - id: [21, 63]
@@ -11048,7 +11049,7 @@ lesson-21:
     romaji: "shibarakudesune."
     meaning: {
       en: "It's been a long time (since I last saw you)./Long time no see.",
-      fr: null,
+      fr: "Il y a longtemps que je ne vous ai pas vu./Ça fait longtemps que l'on ne s'est pas vus.",
     }
 
   - id: [21, 64]
@@ -11058,7 +11059,7 @@ lesson-21:
     romaji: "minaito……."
     meaning: {
       en: "I've got to watch it.",
-      fr: null,
+      fr: "Il faut que je le regarde./Je dois le regarder.",
     }
 
 
@@ -11382,7 +11383,7 @@ lesson-22:
     romaji: "uun."
     meaning: {
       en: "Let me see.",
-      fr: null,
+      fr: "Euh, attendez./Voyons.",
     }
 
   - id: [22, 33]
@@ -11392,7 +11393,7 @@ lesson-22:
     romaji: "apāto"
     meaning: {
       en: "apartment",
-      fr: null,
+      fr: "appartement",
     }
 
   - id: [22, 34]
@@ -11401,8 +11402,8 @@ lesson-22:
     kana: "よかかいはつセンター"
     romaji: "yokakaihatsu sentā"
     meaning: {
-      en: "Center for Developing Leisure Activites",
-      fr: null,
+      en: "Center for Developing Leisure Activities",
+      fr: "Centre pour le Développement des Activités de Loisir",
     }
 
   - id: [22, 35]
@@ -11412,7 +11413,7 @@ lesson-22:
     romaji: "rejāhakusho"
     meaning: {
       en: "white paper on leisure",
-      fr: null,
+      fr: "livre blanc sur les loisirs",
     }
 
 
@@ -11706,27 +11707,28 @@ lesson-23:
     romaji: "ugokimasu [tokeiga~]"
     meaning: {
       en: "[a watch] move, work",
-      fr: null,
+      # !MOD REPLACED : `marcher` --> `marcher,`
+      fr: "[une montre] marcher, fonctionner",
     }
 
   - id: [23, 30]
     edition: [1]
-    kanji: "気 つけます［車に～］"
+    kanji: "気を つけます［車に～］"
     kana: "きを つけます［くるまに～］"
     romaji: "kiwo tsukemasu [kurumani~]"
     meaning: {
       en: "pay attention [to cars], take care",
-      fr: null,
+      fr: "faire attention [aux voitures]",
     }
 
   - id: [23, 31]
-    edition: [1, 2]
+    edition: [1]
     kanji: "引っ越しします"
     kana: "ひっこしします"
     romaji: "hikkoshishimasu"
     meaning: {
       en: "move (house)",
-      fr: null,
+      fr: "déménager",
     }
 
   - id: [23, 32]
@@ -11736,7 +11738,7 @@ lesson-23:
     romaji: "denkiya"
     meaning: {
       en: "electrician",
-      fr: null,
+      fr: "électricien",
     }
 
   - id: [23, 33]
@@ -11746,7 +11748,7 @@ lesson-23:
     romaji: "~ya"
     meaning: {
       en: "person of ～ shop",
-      fr: null,
+      fr: "celui que tient un magasin de qch. ou la personne qui y travaille",
     }
 
   - id: [23, 34]
@@ -11756,7 +11758,7 @@ lesson-23:
     romaji: "kikai"
     meaning: {
       en: "machine",
-      fr: null,
+      fr: "machine",
     }
 
   - id: [23, 35]
@@ -11766,7 +11768,7 @@ lesson-23:
     romaji: "tsumami"
     meaning: {
       en: "knob",
-      fr: null,
+      fr: "bouton",
     }
 
   - id: [23, 36]
@@ -11776,7 +11778,7 @@ lesson-23:
     romaji: "[o] shōgatsu"
     meaning: {
       en: "New Year's Day",
-      fr: null,
+      fr: "Jour de l'An, Nouvel An",
     }
 
   - id: [23, 37]
@@ -11786,7 +11788,7 @@ lesson-23:
     romaji: "gochisōsama [deshita]."
     meaning: {
       en: "That was delicious. (said after eating or drinking)",
-      fr: null,
+      fr: "Je me suis régalé, c'était très bon. (formule de politesse dites après avoir mangé ou bu)",
     }
 
   - id: [23, 38]
@@ -11796,7 +11798,7 @@ lesson-23:
     romaji: "gaikokujintōrokushō"
     meaning: {
       en: "alien registration card",
-      fr: null,
+      fr: "carte d'enregistrement des étrangers, carte d'étranger",
     }
 
 
@@ -11990,7 +11992,7 @@ lesson-24:
     romaji: "iremasu [kōhiiwo~]"
     meaning: {
       en: "make [coffee]",
-      fr: null,
+      fr: "faire [du café]",
     }
 
   - id: [24, 20]
@@ -12000,7 +12002,7 @@ lesson-24:
     romaji: "imi"
     meaning: {
       en: "meaning",
-      fr: null,
+      fr: "sens, signification",
     }
 
   - id: [24, 21]
@@ -12010,7 +12012,7 @@ lesson-24:
     romaji: "wagonsha"
     meaning: {
       en: "station wagon",
-      fr: null,
+      fr: "break",
     }
 
   - id: [24, 22]
@@ -12020,7 +12022,7 @@ lesson-24:
     romaji: "[o] bentō"
     meaning: {
       en: "box lunch",
-      fr: null,
+      fr: "panier-repas",
     }
 
 
@@ -12205,7 +12207,7 @@ lesson-25:
     romaji: "ryūgakushimasu"
     meaning: {
       en: "study abroad",
-      fr: null,
+      fr: "aller étudier à l'étranger",
     }
 
   - id: [25, 19]
@@ -12215,7 +12217,7 @@ lesson-25:
     romaji: "taishikan"
     meaning: {
       en: "embassy",
-      fr: null,
+      fr: "ambassade",
     }
 
   - id: [25, 20]
@@ -12225,7 +12227,7 @@ lesson-25:
     romaji: "gurūpu"
     meaning: {
       en: "group",
-      fr: null,
+      fr: "groupe",
     }
 
   - id: [25, 21]
@@ -12235,7 +12237,7 @@ lesson-25:
     romaji: "ikura [~demo]"
     meaning: {
       en: "however ～, even if ～",
-      fr: null,
+      fr: "même si ～, quelque ～ que (concession)",
     }
 
   - id: [25, 22]
@@ -12245,7 +12247,7 @@ lesson-25:
     romaji: "ippai nomimashou."
     meaning: {
       en: "Let's have a drink together",
-      fr: null,
+      fr: "Buvons ensemble.",
     }
 
 
