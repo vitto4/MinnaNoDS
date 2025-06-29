@@ -123,7 +123,7 @@ This file also includes general information about the structure of the dataset.
   Therefore, any time this has to be done, the version number will have to be bumped to the next major release as this could be considered breaking change for anyone using `id` as a [primary key](## "Which it intends to be, when it is in fact more of something I believed to be called a `natural key` and may thus be unstable.").
 - « This must have taken quite the amount of time to make » well you don't say ! (笑) <br>
   Though I think I'm happy with how it turned out c:
-- I haven't yet managed to get my hands on a French version of the first edition of book 1, so words found exclusively in `Book 1, edition 1` have no French `meaning` for now.
+- ~~I haven't yet managed to get my hands on a French version of the first edition of book 1, so words found exclusively in `Book 1, edition 1` have no French `meaning` for now~~　—　fixed as of [v1.1.0](https://github.com/vitto4/MinnaNoDS/releases/tag/v1.1.0).
 
 
 
