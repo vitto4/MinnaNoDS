@@ -2074,7 +2074,7 @@ lesson-04:
     edition: [1, 2]
     kanji: "何曜日"
     kana: "なんようび"
-    romaji: "naniyōbi"
+    romaji: "nanyōbi"
     meaning: {
       en: "what day of the week",
       fr: "quel jour de la semaine",
@@ -2316,7 +2316,7 @@ lesson-04:
 lesson-05:
   - id: [5, 1]
     edition: [1, 2]
-    kanji: "行ます"
+    kanji: "行きます"
     kana: "いきます"
     romaji: "ikimasu"
     meaning: {
@@ -3584,7 +3584,7 @@ lesson-07:
 
   - id: [7, 5]
     edition: [1, 2]
-    kanji: "貨します"
+    kanji: "貸します"
     kana: "かします"
     romaji: "kashimasu"
     meaning: {
@@ -3764,9 +3764,9 @@ lesson-07:
 
   - id: [7, 23]
     edition: [1, 2]
-    kanji: "消しゴマ"
-    kana: "けしゴマ"
-    romaji: "keshigoma"
+    kanji: "消しゴム"
+    kana: "けしゴム"
+    romaji: "keshigomu"
     meaning: {
       en: "rubber, eraser",
       fr: "gomme à effacer",
@@ -3994,8 +3994,8 @@ lesson-07:
 
   - id: [7, 46]
     edition: [1, 2]
-    kanji: "スペイン"
-    kana: "スパイン"
+    kanji: ~
+    kana: "スペイン"
     romaji: "supain"
     meaning: {
       en: "Spain",
@@ -4008,7 +4008,7 @@ lesson-07:
     edition: [1]
     kanji: ~
     kana: "ファクス"
-    romaji: "fuakusu"
+    romaji: "fakusu"
     meaning: {
       en: "fax",
       fr: "télécopie, fax",
@@ -7056,7 +7056,7 @@ lesson-12:
   # ------------------------------------ ED1 ----------------------------------- #
 
   - id: [12, 54]
-    edition: [1, 2]
+    edition: [1]
     kanji: "試験"
     kana: "しけん"
     romaji: "shiken"
@@ -8097,7 +8097,7 @@ lesson-15:
 
   - id: [15, 5]
     edition: [1, 2]
-    kanji: "住ます"
+    kanji: "住みます"
     kana: "すみます"
     romaji: "sumimasu"
     meaning: {
@@ -8139,7 +8139,7 @@ lesson-15:
     edition: [1, 2]
     kanji: "時刻表"
     kana: "じこくひょう"
-    romaji: "jigokuhyō"
+    romaji: "jikokuhyō"
     meaning: {
       en: "timetable",
       fr: "horaire",
@@ -10218,7 +10218,7 @@ lesson-20:
 
   - id: [20, 11]
     edition: [1, 2]
-    kanji: "ビサ"
+    kanji: ~
     kana: "ビザ"
     romaji: "biza"
     meaning: {
@@ -11307,8 +11307,8 @@ lesson-22:
   - id: [22, 25]
     edition: [1, 2]
     kanji: ~
-    kana: "ダイニングキチン"
-    romaji: "dainingukichin"
+    kana: "ダイニングキッチン"
+    romaji: "dainingukitchin"
     meaning: {
       en: "kitchen with a dining area",
       fr: "cuisine-salle à manger",
@@ -14077,7 +14077,7 @@ lesson-29:
 
   - id: [29, 2]
     edition: [1, 2]
-    kanji: "閉まりる［ドアが～］"
+    kanji: "閉まります［ドアが～］"
     kana: "しまります［ドアが～］"
     romaji: "shimarimasu [doaga~]"
     meaning: {
@@ -14198,12 +14198,12 @@ lesson-29:
 
   - id: [29, 14]
     edition: [1, 2]
-    kanji: "落します"
+    kanji: "落とします"
     kana: "おとします"
     romaji: "otoshimasu"
     meaning: {
-      en: "drop, loose",
-      fr: "laisser tomber, laisser tomber, perdre",
+      en: "drop, lose",
+      fr: "faire tomber, laisser tomber, perdre",
     }
 
   - id: [29, 15]
@@ -15055,7 +15055,7 @@ lesson-30:
     edition: [2]
     kanji: "懐中電灯"
     kana: "かいちゅうでんとう"
-    romaji: "kaijūdentō"
+    romaji: "kaichūdentō"
     meaning: {
       en: "torch, flashlight",
       fr: "lampe de torche", # TODO ?? prob `lampe torche`
@@ -15911,7 +15911,7 @@ lesson-32:
 
   - id: [32, 8]
     edition: [1, 2]
-    kanji: "続づきます［熱が～］"
+    kanji: "続きます［熱が～］"
     kana: "つづきます［ねつが～］"
     romaji: "tsuzukimasu [netsuga~]"
     meaning: {
@@ -17049,7 +17049,7 @@ lesson-33:
     edition: [1]
     kanji: ~
     kana: "ファイト"
-    romaji: "fuaito"
+    romaji: "faito"
     meaning: {
       en: "fight",
       fr: "Allez-y!/Courage!",
@@ -17319,7 +17319,7 @@ lesson-34:
 
   - id: [34, 3]
     edition: [1, 2]
-    kanji: "降ります"
+    kanji: "折ります"
     kana: "おります"
     romaji: "orimasu"
     meaning: {
@@ -17340,8 +17340,8 @@ lesson-34:
   - id: [34, 5]
     edition: [1, 2]
     kanji: ~
-    kana: "つけます［しゅうゆを～］"
-    romaji: "tsukemasu [shūyuwo~]"
+    kana: "つけます［しょうゆを～］"
+    romaji: "tsukemasu [shōyuwo~]"
     meaning: {
       en: "put [in soy sauce]",
       fr: "mettre [de la sauce de soja]",
@@ -17861,7 +17861,7 @@ lesson-34:
 
   - id: [34, 57]
     edition: [1]
-    kanji: "とり肉"
+    kanji: "鳥肉"
     kana: "とりにく"
     romaji: "toriniku"
     meaning: {
@@ -17934,7 +17934,7 @@ lesson-35:
   - id: [35, 7]
     edition: [2]
     kanji: ~
-    kana: "くりっくします"
+    kana: "クリックします"
     romaji: "kurikkushimasu"
     meaning: {
       en: "click",
@@ -19914,7 +19914,7 @@ lesson-37:
   - id: [37, 73]
     edition: [1]
     kanji: ~
-    kana: "グラハムーベル"
+    kana: "グラハム・ベル"
     romaji: "gurahamūberu"
     meaning: {
       en: "Alexander Graham Bell, American inventor (1847-1922)",
@@ -21956,7 +21956,7 @@ lesson-40:
 
   - id: [40, 77]
     edition: [1]
-    kanji: "うわします"
+    kanji: ~
     kana: "うわさします"
     romaji: "uwasashimasu"
     meaning: {
@@ -23327,7 +23327,7 @@ lesson-42:
     edition: [1]
     kanji: ~
     kana: "ファイル"
-    romaji: "fuairu"
+    romaji: "fairu"
     meaning: {
       en: "file",
       fr: "classeur, chemise",
@@ -23528,8 +23528,8 @@ lesson-43:
   - id: [43, 7]
     edition: [1, 2]
     kanji: "落ちます［荷物が～］"
-    kana: "おちます［にもつ～］"
-    romaji: "ochimasu [nimotsu~]"
+    kana: "おちます［にもつが～］"
+    romaji: "ochimasu [nimotsuga~]"
     meaning: {
       en: "[baggage] fall down",
       fr: "[un baggage] tomber",
@@ -23881,7 +23881,7 @@ lesson-44:
 
   - id: [44, 6]
     edition: [1, 2]
-    kanji: "滑べります"
+    kanji: "滑ります"
     kana: "すべります"
     romaji: "suberimasu"
     meaning: {
@@ -24626,13 +24626,13 @@ lesson-45:
     }
 
   - id: [45, 30]
-    edition: [1, 2]
+    edition: [1]
     kanji: "あいます［事故に～］"
     kana: "あいます［じこに～］"
     romaji: "aimasu [jikoni~]"
     meaning: {
       en: "encounter [an accident]",
-      fr: "être surprise par, avoir [un accident]",
+      fr: "être surpris par, avoir [un accident]",
     }
 
   - id: [45, 31]
@@ -25588,7 +25588,7 @@ lesson-47:
     edition: [1]
     kanji: "天気予報"
     kana: "てんきよほう"
-    romaji: "tenkeyohō"
+    romaji: "tenkiyohō"
     meaning: {
       en: "weather forecast",
       fr: "prévisions météorologiques",
@@ -25728,7 +25728,7 @@ lesson-48:
 
   - id: [48, 2]
     edition: [1, 2]
-    kanji: "届ける"
+    kanji: "届けます"
     kana: "とどけます"
     romaji: "todokemasu"
     meaning: {
@@ -25790,7 +25790,7 @@ lesson-48:
     edition: [2]
     kanji: ~
     kana: "ファイル"
-    romaji: "fuairu"
+    romaji: "fairu"
     meaning: {
       en: "file",
       fr: "classeur",
